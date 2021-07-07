@@ -3,4 +3,6 @@
 3- Gato
 4- Tortuga
 5- Tigre
+6- Gallina
+7- Alacran
 
