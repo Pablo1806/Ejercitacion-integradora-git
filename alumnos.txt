@@ -1,3 +1,6 @@
 Andres Dominguez
 Mariana Romero
 Diego Aleman
+++ Juan:
++ Pablo Fonseca
++ Juan Basualdo
