@@ -5,6 +5,8 @@
 5- Tigre
 6- Gallina
 7- Alacran
+8- pablo:  el planeta tiene variedades de animales
+
 Juan:
 Hago cambios, agrego Dragón.
 
